@@ -12,16 +12,24 @@ Discord: https://discord.gg/hbV5zhcKTf
 Nous avons quelque plugins de base comme:
 - World Edit (https://dev.bukkit.org/projects/worldedit)
 - Skript (https://dev.bukkit.org/projects/skript)
-- BotSentry
+- BotSentry (https://www.spigotmc.org/resources/%E2%9A%A1-botsentry-%E2%9A%A1-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.55924/)
 
 # Type de sanction
 
 🔘: Mute
-🔴: BanIP (Définitif)
-🟠: Ban
-🟡: TempBan
+
 🟢: Warn (Avertissement)
+
+🟡: TempBan
+
+🟠: Ban
+
+🔴: BanIP (Définitif)
+
 🔵: 
+
 🟣: 
+
 🟤: 
-⚫: 
+
+⚫: Inventaire Supprimé
