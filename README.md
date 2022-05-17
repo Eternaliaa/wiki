@@ -22,10 +22,10 @@ Les sites:
 
 🔴: BanIP (Définitif)
 
-🔵: 
+🔵: Kick
 
-🟣: 
+🟣: Derank
 
-🟤: 
+🟤: INDÉFINI
 
 ⚫: Inventaire Supprimé
