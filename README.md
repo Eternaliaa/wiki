@@ -26,6 +26,6 @@ Les sites:
 
 🟣: Derank
 
-🟤: INDÉFINI
+🟤: Mute définitif
 
 ⚫: Inventaire Supprimé
